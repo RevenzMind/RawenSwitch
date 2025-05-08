@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|c:\\users\\reven\\source\\repos\\valorantlogger\\riotaccounts\\routes\\accountsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|solutionrelative:riotaccounts\\routes\\accountsmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|c:\\users\\reven\\source\\repos\\valorantlogger\\riotaccounts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|solutionrelative:riotaccounts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|c:\\users\\reven\\source\\repos\\valorantlogger\\riotaccounts\\styles\\player.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|solutionrelative:riotaccounts\\styles\\player.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|c:\\users\\reven\\source\\repos\\valorantlogger\\riotaccounts\\styles\\windowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|solutionrelative:riotaccounts\\styles\\windowstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|c:\\users\\reven\\source\\repos\\valorantlogger\\riotaccounts\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{06B7CB82-AC6C-47DE-848E-669B3C22BDA1}|RiotAccounts\\RiotAccounts.csproj|solutionrelative:riotaccounts\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "accountsmanager.xaml",
+              "DocumentMoniker": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\routes\\accountsmanager.xaml",
+              "RelativeDocumentMoniker": "RiotAccounts\\routes\\accountsmanager.xaml",
+              "ToolTip": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\routes\\accountsmanager.xaml",
+              "RelativeToolTip": "RiotAccounts\\routes\\accountsmanager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T06:31:25.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RiotAccounts\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RiotAccounts\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:12:54.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RiotAccounts\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\MainWindow.xaml",
+              "RelativeToolTip": "RiotAccounts\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T01:09:31.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "windowstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\styles\\windowstyle.xaml",
+              "RelativeDocumentMoniker": "RiotAccounts\\styles\\windowstyle.xaml",
+              "ToolTip": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\styles\\windowstyle.xaml",
+              "RelativeToolTip": "RiotAccounts\\styles\\windowstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T01:09:14.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.xaml",
+              "DocumentMoniker": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\styles\\player.xaml",
+              "RelativeDocumentMoniker": "RiotAccounts\\styles\\player.xaml",
+              "ToolTip": "C:\\Users\\reven\\source\\repos\\ValorantLogger\\RiotAccounts\\styles\\player.xaml",
+              "RelativeToolTip": "RiotAccounts\\styles\\player.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T23:31:57.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

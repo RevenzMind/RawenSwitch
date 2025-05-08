@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="RiotAccounts.routes.Accountsmanager"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:RiotAccounts.routes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="433"
+    d:DesignWidth="698"
+    mc:Ignorable="d">
+    <Grid>
+
+        <ItemsControl x:Name="AccountList" HorizontalAlignment="Left" Height="433" Width="498" VerticalAlignment="Center">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.Template>
+                <ControlTemplate>
+                    <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+                        <ItemsPresenter />
+                    </ScrollViewer>
+                </ControlTemplate>
+            </ItemsControl.Template>
+        </ItemsControl>
+
+        <Border Padding="5" Width="200" CornerRadius="5" HorizontalAlignment="Right" Background="#33000000">
+            <Grid>
+                <TextBox x:Name="TagInput" VerticalAlignment="Top" Height="40" Tag="Riot Tag" Style="{DynamicResource InputText}"></TextBox>
+                <TextBox x:Name="UserInput" Margin="0 45 0 0" VerticalAlignment="Top" Height="40" Tag="Username" Style="{DynamicResource InputText}"></TextBox>
+                <TextBox x:Name="PassInput" Margin="0 90 0 0" VerticalAlignment="Top" Height="40" Tag="Password" Style="{DynamicResource InputText}"></TextBox>
+                <Button Click="AddAccount" Content="Add Account" VerticalAlignment="Bottom" Width="auto" Height="50" FontSize="14" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ForegroundSelected}" Style="{DynamicResource accountsbutton}" ></Button>
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

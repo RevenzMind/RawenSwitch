@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="components\accountcomponent\accountcard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="routes\accountsmanager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="components\accountcomponent\accountcard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="routes\accountsmanager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="styles\accountsmanager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="styles\global.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="styles\maininterface.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="styles\player.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="styles\windowstyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
